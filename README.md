@@ -1,5 +1,4 @@
-# kts-react-course
+# Проекты dmhd6219
 
-This is repo for solutions of homeworks for KTS courses.
-
-Solutions are made by [dmhd6219](https://github.com/dmhd6219)
+Сюда я буду закидывать свои проекты, которые хотелось бы показать публично, но основной репозиторий они бы засоряли.
+Например, тестовые задания на стажировки, решения домашек и прочее.
